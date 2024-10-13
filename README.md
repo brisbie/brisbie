@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# A bit about me
+### A bit about me
 
 I like video games, movies, rainy days and coding. 🖥️
 
