@@ -2,7 +2,7 @@
 
 ### A bit about me
 
-I like video games, movies, rainy days and coding. 🖥️
+I like video games, movies, movies and coding. 🖥️
 
 I am currently learning the basics of software development. 🌱
 
